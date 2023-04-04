@@ -1,0 +1,40 @@
+body{
+    background-color: black;
+    background-size: 100;
+}
+
+h1{
+    color:maroon;
+    
+}
+u{
+    color: violet;
+}
+h4{
+    color:green;
+}
+
+p{
+    color:gray;
+}
+strong{
+    color:green;
+}
+
+td{
+    color:gray;
+}
+
+li{
+    color:gray;
+}
+td{
+    background-color:black;
+    text-decoration-line:pink ;
+}
+i{
+    color: magenta;
+}
+u{
+    color: wheat;
+}
