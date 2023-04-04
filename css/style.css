@@ -2,7 +2,7 @@ body
     {
         margin: 0px;
         padding: 0px;
-        background-image: url(/imgs/mlbg.jpg);
+        background-image: url(../imgs/mlbg.jpg);
         height: 100vh;
         font-family: system-ui;
         background-position: center;
