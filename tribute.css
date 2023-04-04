@@ -1,0 +1,88 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-size: cover;
+    color: black;
+    background: grey;
+    height: 20%;
+    height: 50vh;
+    border-radius: 10px;
+
+}
+
+body{
+    text-align: center;
+    font-size: 2rem;
+
+}
+box{
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+    background-position: center; 
+}
+
+p{
+    width: 80%;
+    height: 80vh;
+    background-image: url(t.gif);
+    background-size: cover;
+    background-position: center;
+    color: gray;
+    text-align: center;
+    padding: 10px 10;
+    position: absolute;
+    right: 140;
+    margin-top: -300;
+}
+
+h1{
+    text-align: center;
+
+}
+Mary Cris
+Mary Cris Maravillas Camasura
+*{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-size: cover;
+    color: black;
+    background: grey;
+    height: 20%;
+    height: 50vh;
+    border-radius: 10px;
+
+}
+
+body{
+    text-align: center;
+    font-size: 2rem;
+
+}
+box{
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+    background-position: center; 
+}
+
+p{
+    width: 80%;
+    height: 80vh;
+    background-image: url(t.gif);
+    background-size: cover;
+    background-position: center;
+    color: gray;
+    text-align: center;
+    padding: 10px 10;
+    position: absolute;
+    right: 140;
+    margin-top: -300;
+}
+
+h1{
+    text-align: center;
+
+}
